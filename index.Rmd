@@ -1,5 +1,5 @@
 ---
-title: "10:00 Midterm"
+title: "10:00 Section"
 output: html_document
 author: "Steven Koski"
 date: "October 15, 2017"
