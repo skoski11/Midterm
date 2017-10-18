@@ -1,0 +1,13 @@
+---
+title: "10:00 Midterm"
+output: html_document
+author: "Steven Koski"
+date: "October 15, 2017"
+---
+Here is some arithmetic:
+```{r}
+x<-7
+y<-9
+x-cos(y)
+```
+
